@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>ES25519 Page</h1>
+    <h1>ED25519 Page</h1>
 
     <div>
       <p>Private Key</p>
